@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/TheLevelUp/ZXingObjC'
   s.author = 'ZXingObjC team'
   s.license = { :type => 'Apache License 2.0', :file => 'COPYING' }
-  s.source = { :git => 'https://github.com/TheLevelUp/ZXingObjC.git', :tag => "#{s.version}" }
+  s.source = { :git => 'https://github.com/xiazhichao/ZXing_xzc.git', :tag => "#{s.version}" }
   s.requires_arc = true
   s.xcconfig = { "OTHER_LDFLAGS" => "-ObjC" }
 
